@@ -215,3 +215,8 @@ mise.toml
 # AI Assistant
 .roo/
 api/.env.backup
+
+# 定制化配置
+docker/docker-compose.override.yml
+custom-assets/
+*.custom.env
