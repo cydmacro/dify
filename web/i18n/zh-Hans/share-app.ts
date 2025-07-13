@@ -14,7 +14,7 @@ const translation = {
     newChatDefaultName: '新的对话',
     resetChat: '重置对话',
     viewChatSettings: '查看对话设置',
-    poweredBy: 'Powered by',
+    poweredBy: '金融信贷',
     prompt: '提示词',
     privatePromptConfigTitle: '对话设置',
     publicPromptConfigTitle: '对话前提示词',
